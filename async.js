@@ -7,7 +7,7 @@
       {
         id: '20193221704',
         name: "CommonJS/AMD/CMD",
-        des: "关于CommonJS/AMD/CMD三个js模块化开发规范记录",
+        des: "关于CommonJS/AMD/CMD三个js模块化开发规范记录233333",
         lag: ['Javascript','Markdown'],
         see: 1,
         tags: ["js模块化开发规范"],
