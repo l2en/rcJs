@@ -33,6 +33,16 @@
         tags: ["React", "知识点", "要点", "笔记"],
         path: articleBaseUrl+'React要点.md',
         isOverview: true
+      },
+      {
+        id: '201910111500',
+        title: "That's Testing",
+        des: "Testing for sth...",
+        lag: ['None'],
+        see: 230,
+        tags: ["None"],
+        path: articleBaseUrl+'React要点.md',
+        isOverview: true
       }
     ]
   }
