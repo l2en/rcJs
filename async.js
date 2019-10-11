@@ -2,7 +2,7 @@
   var _this = this;
   var articleBaseUrl = 'https://github.com/l2en/l2en.github.io/blob/master/dataSource/';
 
-  _this._config ={
+  _this.blogSource ={
     articles: [
       {
         id: '20193221704',
