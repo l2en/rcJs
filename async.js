@@ -6,7 +6,7 @@
     articles: [
       {
         id: '20193221704',
-        title: "CommonJS/AMD/CMD 4567",
+        title: "CommonJS/AMD/CMD",
         des: "关于CommonJS/AMD/CMD三个js模块化开发规范记录",
         lag: ['Javascript','Markdown'],
         see: 1,
