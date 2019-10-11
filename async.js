@@ -6,7 +6,7 @@
     articles: [
       {
         id: '20193221704',
-        name: "CommonJS/AMD/CMD 4567",
+        title: "CommonJS/AMD/CMD 4567",
         des: "关于CommonJS/AMD/CMD三个js模块化开发规范记录",
         lag: ['Javascript','Markdown'],
         see: 1,
@@ -16,7 +16,7 @@
       },
       {
         id: '20194260929',
-        name: "学习笔记1 - 原型链",
+        title: "学习笔记1 - 原型链",
         des: "学习笔记1 - 原型、原型链、闭包",
         lag: ['Javascript','Markdown'],
         see: 10,
@@ -26,7 +26,7 @@
       },
       {
         id: '201905072323',
-        name: "React知识点",
+        title: "React知识点",
         des: "React知识点 - 要点浅析",
         lag: ['React'],
         see: 23,
