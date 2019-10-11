@@ -1,6 +1,6 @@
 (function(){
   var _this = this;
-  var articleBaseUrl = 'https://github.com/l2en/l2en.github.io/blob/master/dataSource/';
+  var articleBaseUrl = 'https://github.com/l2en/Notes/blob/master/';
 
   _this.blogSource ={
     articles: [
